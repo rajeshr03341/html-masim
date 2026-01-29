@@ -812,74 +812,74 @@ label.MenuIcon::after {
  
  .mainmanu li {
     margin: 0 6px!important;
-}
-.mainmanu li a,.choose-btm h4
-{
-    font-size: 12px!important;
-}
-.top-social li a {   
-    width: 25px!important;
-    height: 25px!important;
-}
-.quotebtn {
- 
-    padding: 9px 18px!important;
-    font-size: 10px!important;
-}
-.top-social li {
-    margin-left: 2px!important;
-}
-.welcome .sub-title
-{
-    font-size: 30px!important;
-    margin-bottom: 20px!important;
-}
-.intro-cnt
-{
-     font-size: 10px!important;
-    margin-bottom: 12px!important;
-}
-.ourprofile1,.ourprofile2
-{
-    border:none!important;
-    padding-left: 10px!important;
-    padding-right: 10px!important;
-}
-.ourprofile1 img,.ourprofile2 img
-{
-    display: none!important;
-}
-.welcome .title2,.welcome .title1
-{
-    font-size: 12px!important;
-    margin: 0px!important;
-}
-.welcome-bg {
-   
-    clip-path: unset!important;
-}
-.welcome-btn,.welcome-phone, .ourtools:after
-{
-    display: none!important;
-}
-.services .ser-tile
-{
-    font-size: 10px!important;
-     font-weight: normal!important;
+    }
+    .mainmanu li a,.choose-btm h4
+    {
+        font-size: 12px!important;
+    }
+    .top-social li a {   
+        width: 25px!important;
+        height: 25px!important;
+    }
+    .quotebtn {
+    
+        padding: 9px 18px!important;
+        font-size: 10px!important;
+    }
+    .top-social li {
+        margin-left: 2px!important;
+    }
+    .welcome .sub-title
+    {
+        font-size: 30px!important;
+        margin-bottom: 20px!important;
+    }
+    .intro-cnt
+    {
+        font-size: 10px!important;
+        margin-bottom: 12px!important;
+    }
+    .ourprofile1,.ourprofile2
+    {
+        border:none!important;
+        padding-left: 10px!important;
+        padding-right: 10px!important;
+    }
+    .ourprofile1 img,.ourprofile2 img
+    {
+        display: none!important;
+    }
+    .welcome .title2,.welcome .title1
+    {
+        font-size: 12px!important;
+        margin: 0px!important;
+    }
+    .welcome-bg {
+    
+        clip-path: unset!important;
+    }
+    .welcome-btn,.welcome-phone, .ourtools:after
+    {
+        display: none!important;
+    }
+    .services .ser-tile
+    {
+        font-size: 10px!important;
+        font-weight: normal!important;
 
-}
-.choose-btm
-{
-    padding: 8px 10px!important;
-}
+    }
+    .choose-btm
+    {
+        padding: 8px 10px!important;
+    }
 
-.ourtools, .ourtools-last
-{
-    padding: 0!important;
-}
-.ourtools .ser-tile, .ourtools-last .ser-tile
-{
-    font-size: 14px!important;
-}
+    .ourtools, .ourtools-last
+    {
+        padding: 0!important;
+    }
+    .ourtools .ser-tile, .ourtools-last .ser-tile
+    {
+        font-size: 14px!important;
+    }
 
 }
