@@ -854,8 +854,7 @@ label.MenuIcon::after {
         font-size: 12px!important;
         margin: 0px!important;
     }
-    .welcome-bg {
-    
+    .welcome-bg {    
         clip-path: unset!important;
     }
     .welcome-btn,.welcome-phone, .ourtools:after
@@ -872,7 +871,6 @@ label.MenuIcon::after {
     {
         padding: 8px 10px!important;
     }
-
     .ourtools, .ourtools-last
     {
         padding: 0!important;
